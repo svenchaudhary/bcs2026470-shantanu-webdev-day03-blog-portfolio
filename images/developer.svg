@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-labelledby="title desc">
+  <title id="title">Developer at a computer</title>
+  <desc id="desc">A person working at a laptop in a creative workspace.</desc>
+  <rect width="520" height="420" rx="28" fill="#eeeaff"/>
+  <circle cx="390" cy="90" r="48" fill="#d9d0ff"/>
+  <circle cx="104" cy="300" r="62" fill="#d9d0ff"/>
+  <rect x="70" y="75" width="145" height="95" rx="12" fill="#fff" opacity=".8"/>
+  <path d="M91 105h80M91 123h56M91 141h66" stroke="#b4a6f5" stroke-width="7" stroke-linecap="round"/>
+  <rect x="304" y="65" width="124" height="100" rx="12" fill="#fff"/>
+  <path d="M324 94l12 12-12 12M348 118h24" stroke="#7158e2" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M183 315c0-55 29-94 77-94s77 39 77 94v47H183z" fill="#7158e2"/>
+  <path d="M217 254l43 39 43-39" fill="#fff" opacity=".95"/>
+  <path d="M240 287h40l-7 45h-26z" fill="#d9d0ff"/>
+  <ellipse cx="260" cy="174" rx="52" ry="58" fill="#a96643"/>
+  <path d="M208 170c-9-51 17-82 56-82 40 0 61 29 49 78l-9-29c-22 4-42-5-55-18-8 17-22 26-41 28z" fill="#29263a"/>
+  <path d="M220 177c-7-8-15-2-13 8 2 11 8 16 16 14M300 177c7-8 15-2 13 8-2 11-8 16-16 14" fill="#a96643"/>
+  <path d="M241 184h5M275 184h5" stroke="#29263a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M248 205q12 10 24 0" fill="none" stroke="#78442f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M217 150q10-8 20 0M273 150q10-8 20 0" fill="none" stroke="#29263a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M189 305l-38 28 20 20 48-30M331 305l38 28-20 20-48-30" fill="#a96643"/>
+  <rect x="109" y="324" width="302" height="16" rx="8" fill="#29263a"/>
+  <path d="M130 340h260l18 29H112z" fill="#b4a6f5"/>
+  <path d="M215 341h90l-9 9h-72z" fill="#fff" opacity=".8"/>
+  <circle cx="437" cy="264" r="8" fill="#7158e2"/>
+  <circle cx="85" cy="205" r="7" fill="#a8d95a"/>
+  <path d="M425 314l10 10 20-25" stroke="#7158e2" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

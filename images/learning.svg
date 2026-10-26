@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 340" role="img" aria-labelledby="title desc">
+  <title id="title">Learning and coding</title>
+  <desc id="desc">A colourful illustration of study notes, a book, and programming symbols.</desc>
+  <rect width="500" height="340" rx="25" fill="#f0edff"/>
+  <circle cx="95" cy="83" r="38" fill="#d9d0ff"/>
+  <circle cx="413" cy="250" r="52" fill="#ddd6ff"/>
+  <rect x="64" y="62" width="184" height="210" rx="15" fill="#fff" transform="rotate(-5 64 62)"/>
+  <g transform="rotate(-5 156 167)">
+    <rect x="94" y="96" width="120" height="10" rx="5" fill="#7158e2"/>
+    <rect x="94" y="122" width="139" height="7" rx="3" fill="#ddd8ee"/>
+    <rect x="94" y="139" width="110" height="7" rx="3" fill="#ddd8ee"/>
+    <rect x="94" y="156" width="130" height="7" rx="3" fill="#ddd8ee"/>
+    <rect x="94" y="187" width="54" height="38" rx="7" fill="#eae6ff"/>
+    <path d="M105 200l8 6-8 6M122 212h17" fill="none" stroke="#7158e2" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <rect x="236" y="107" width="193" height="137" rx="13" fill="#29263e"/>
+  <rect x="250" y="121" width="165" height="108" rx="6" fill="#35314f"/>
+  <circle cx="263" cy="134" r="3" fill="#f29b91"/>
+  <circle cx="274" cy="134" r="3" fill="#e9c66b"/>
+  <circle cx="285" cy="134" r="3" fill="#a8d95a"/>
+  <path d="M270 159l-12 11 12 11M294 181l13-23M323 159h45M323 173h66M323 187h40" fill="none" stroke="#c9baff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M222 244h221l-20 18H241z" fill="#aaa0d8"/>
+  <rect x="285" y="244" width="97" height="6" rx="3" fill="#fff" opacity=".6"/>
+  <circle cx="392" cy="73" r="24" fill="#c9f06a"/>
+  <path d="M381 73l8 8 14-17" fill="none" stroke="#3d4926" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M106 294l7 15 16 2-12 11 3 16-14-8-14 8 3-16-12-11 16-2z" fill="#7158e2" transform="translate(0 -16) scale(.8)"/>
+</svg>
